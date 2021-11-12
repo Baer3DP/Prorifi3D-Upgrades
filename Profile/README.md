@@ -8,11 +8,11 @@
 - ### Then import the profile you just downloaded
 
 ## STEP3:Check the profile
-### you should see 5 settings were imported
+- ### you should see 5 settings were imported
 ![alt text](https://github.com/Prorifi3D-Official/Prorifi3D-Upgrades/blob/main/Profile/src/pic3.png)
-### check the presets and you can find new profiles there!
+- ### check the presets and you can find new profiles there!
 ![alt text](https://github.com/Prorifi3D-Official/Prorifi3D-Upgrades/blob/main/Profile/src/pic4.png)
 
 ## STEP4:Print
-### Happy printing!
+- ### Happy printing!
 :wink:
