@@ -1,12 +1,3 @@
-# Prorifi3D-Upgrades
+#Prorifi3D 
 
-## Table of contents:
-- ### Introduction
-- ### Features
-- ### Compatibility
-- ### Printed parts & Print settings
-- ### Upgrade Guides
-- ### Bill of materials
-- ### Free Profiles
-- ### Community
-- ### License
+## Profiles[https://github.com/Prorifi3D-Official/Prorifi3D-Upgrades/tree/main/Profile]
