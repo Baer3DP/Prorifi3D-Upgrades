@@ -3,9 +3,9 @@
 
 ## STEP2:Import the configs
 ![alt text](https://github.com/Prorifi3D-Official/Prorifi3D-Upgrades/blob/main/Profile/src/pic1.png)
-### You can find the import at File->import->import config bundle
+- ### You can find the import at File->import->import config bundle
 ![alt text](https://github.com/Prorifi3D-Official/Prorifi3D-Upgrades/blob/main/Profile/src/pic2.png)
-### Then import the profile you just downloaded
+- ### Then import the profile you just downloaded
 
 ## STEP3:Check the profile
 ### you should see 5 settings were imported
